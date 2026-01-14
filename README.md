@@ -93,3 +93,7 @@ Players select a difficulty level, try to guess the randomly generated number, a
 ## 👤 Author
 
 **AlexIsNotInset**
+
+![First GuessTheNumber Screenshot](Guessthenumber1.png)
+
+![Second GuessTheNumber Screenshot](Guessthenumber1.png)
