@@ -96,4 +96,4 @@ Players select a difficulty level, try to guess the randomly generated number, a
 
 ![First GuessTheNumber Screenshot](Guessthenumber1.png)
 
-![Second GuessTheNumber Screenshot](Guessthenumber1.png)
+![Second GuessTheNumber Screenshot](Guessthenumber2.png)
